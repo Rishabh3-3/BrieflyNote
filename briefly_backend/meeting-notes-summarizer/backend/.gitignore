@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore dotenv files
+.env
+
+# Ignore SQLite DB (optional if you don't want to push the DB)
+*.db
+
+# Ignore VS Code settings
+.vscode/
